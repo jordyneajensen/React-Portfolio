@@ -1,10 +1,10 @@
 import React from 'react';
-import './topbar.scss';
+import './Topbar.scss';
 
 function Topbar() {
   return (
     <div className='topbar'>
-        
+
     </div>
   )
 }

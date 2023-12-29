@@ -1,10 +1,10 @@
 import React from 'react';
-import './portfolio.scss';
+import './Portfolio.scss';
 
 function Portfolio() {
   return (
     <div className='portfolio'>
-        
+
     </div>
   )
 }
