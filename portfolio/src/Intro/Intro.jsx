@@ -1,11 +1,11 @@
 import React from 'react';
-import './intro.scss';
+import './Intro.scss';
 
 
 function Intro() {
   return (
     <div className='intro'>
-        
+
     </div>
   )
 }
